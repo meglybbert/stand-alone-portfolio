@@ -2242,12 +2242,10 @@ a {
 .nav {
   margin-bottom: 2em; }
 
-.workOne {
-  margin-bottom: 2em; }
+figure {
+  margin-bottom: 4em; }
 
-.imgOne,
-.imgTwo,
-.imgThree {
+.thumb {
   margin-bottom: 2em; }
 
 .about-segment,
@@ -2317,15 +2315,10 @@ p {
   .contentWrapper {
     max-width: 1200px;
     margin: auto; }
-  .imgOne,
-  .imgTwo,
-  .imgThree {
+  .thumb {
     margin-bottom: 1.66666%;
     width: 32%;
     height: auto; }
-  .imgOne,
-  .imgTwo {
-    margin-right: 1.66666%; }
   .twoWide {
     display: flex; }
   .colOne,
@@ -2343,14 +2336,10 @@ p {
 /********************
 YOUR STYLES
 *******************/
-.thumb {
-  max-width: 360px; }
-
 figure {
   background: teal;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between; }
+  flex-wrap: wrap; }
 
 /********************
 MEDIA QUERIES

@@ -75,13 +75,11 @@ a{
   margin-bottom: 2em;
 }
 
-.workOne{
-  margin-bottom: 2em;
+figure{
+  margin-bottom: 4em;
 }
 
-.imgOne,
-.imgTwo,
-.imgThree{
+.thumb{
   margin-bottom: 2em;
 }
 
@@ -170,19 +168,12 @@ p{
     margin: auto;
   }
   
-  .imgOne,
-  .imgTwo,
-  .imgThree{
+  .thumb{
     margin-bottom: 1.66666%;
     width: 32%;
     height: auto;
   }
     
-  .imgOne,
-  .imgTwo{
-    margin-right: 1.66666%;
-  }
-  
   .twoWide{
     display: flex;
   }

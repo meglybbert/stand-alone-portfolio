@@ -7,15 +7,10 @@
 /********************
 YOUR STYLES
 *******************/
-.thumb{
-  max-width: 360px;
-}
-
 figure{
     background: teal;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
 }
 
 /********************
@@ -45,6 +40,7 @@ MEDIA QUERIES
 
 /* Desktop: 1280px = 80em */
 @media screen and (min-width: 80em) { 
+
   
   /* Diagnostic Styling. Delete When Done. */
   body:before {
