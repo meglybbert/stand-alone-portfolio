@@ -53,6 +53,16 @@
 		"oAP": "\/fonts\/lg.woff",
 		"oF": 0
 		},
+	"\/img\/cut-thumb.png": {
+		"ft": 32768,
+		"iS": 38846,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/cut-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/loser1-thumb.png": {
 		"ft": 32768,
 		"iS": 43861,
@@ -79,6 +89,16 @@
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/loser3-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/mag-thumb.png": {
+		"ft": 32768,
+		"iS": 73388,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/mag-thumb.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
