@@ -66,7 +66,7 @@ a{
 }
 
 .nav{
-  margin-bottom: 2em;
+  margin-bottom: 1.2em;
 }
 
 .about-segment,
@@ -144,29 +144,12 @@ p{
 /********************
 MEDIA QUERIES
 *******************/
-/* Mobile: 320px = 20em */
-@media screen and (min-width: 20em) { 
-
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Mobile Size";
-  }
-  
-}
-
 /* Tablet:  768px = 160em */
 @media screen and (min-width: 48em)  {
 	.aboutContent{
 		-webkit-column-count: 2;
 		-webkit-column-gap: 1.5em;
 	}
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Tablet Size";
-  }
-
 }
 
 /* Desktop: 1280px = 80em */
@@ -182,6 +165,10 @@ MEDIA QUERIES
   .contentWrapper{
     max-width: 80em;
     margin: auto;
+  }
+
+  .nav{
+    margin-bottom: 1.6em;
   }
     
   .twoWide{
@@ -212,12 +199,6 @@ MEDIA QUERIES
   .footer{
     padding-bottom: 0;
     margin-top: 1em;
-  }
-  
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Desktop Size";
   }
 
 }
