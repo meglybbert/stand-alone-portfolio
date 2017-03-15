@@ -53,32 +53,104 @@
 		"oAP": "\/fonts\/lg.woff",
 		"oF": 0
 		},
-	"\/img\/500.jpg": {
-		"ft": 16384,
-		"iS": 58814,
-		"oA": 0,
-		"oAP": "\/img\/500.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/600.jpg": {
-		"ft": 16384,
-		"iS": 49217,
-		"oA": 0,
-		"oAP": "\/img\/600.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/logo.png": {
+	"\/img\/loser1-thumb.png": {
 		"ft": 32768,
-		"iS": 148941,
+		"iS": 43861,
 		"l": 1,
 		"oA": 0,
-		"oAP": "\/img\/logo.png",
+		"oAP": "\/img\/loser1-thumb.png",
 		"oF": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/loser2-thumb.png": {
+		"ft": 32768,
+		"iS": 47498,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/loser2-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/loser3-thumb.png": {
+		"ft": 32768,
+		"iS": 53745,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/loser3-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/oreo1-thumb.png": {
+		"ft": 32768,
+		"iS": 37262,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/oreo1-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/oreo2-thumb.png": {
+		"ft": 32768,
+		"iS": 37882,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/oreo2-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/oreo3-thumb.png": {
+		"ft": 32768,
+		"iS": 33623,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/oreo3-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paradox-thumb.png": {
+		"ft": 32768,
+		"iS": 33177,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/paradox-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sharpie-thumb.png": {
+		"ft": 32768,
+		"iS": 242851,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/sharpie-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sunset-thumb.png": {
+		"ft": 32768,
+		"iS": 228983,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/sunset-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/turquoise-thumb.png": {
+		"ft": 32768,
+		"iS": 4768593,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/turquoise-thumb.png",
+		"oF": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/index.html": {
