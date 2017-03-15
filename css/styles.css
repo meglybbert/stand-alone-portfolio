@@ -2343,9 +2343,14 @@ p {
 /********************
 YOUR STYLES
 *******************/
+.thumb {
+  max-width: 360px; }
+
 figure {
   background: teal;
-  width: 400px; }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
 
 /********************
 MEDIA QUERIES

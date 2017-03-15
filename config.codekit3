@@ -63,12 +63,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/cut.png": {
+		"ft": 32768,
+		"iS": 4339559,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/cut.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/loading.gif": {
+		"ft": 4194304,
+		"iS": 64382,
+		"oA": 0,
+		"oAP": "\/img\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/loading.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/loading.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/loser1-thumb.png": {
 		"ft": 32768,
 		"iS": 43861,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/loser1-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/loser1.png": {
+		"ft": 32768,
+		"iS": 351510,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/loser1.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -83,12 +121,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/loser2.png": {
+		"ft": 32768,
+		"iS": 311132,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/loser2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/loser3-thumb.png": {
 		"ft": 32768,
 		"iS": 53745,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/loser3-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/loser3.png": {
+		"ft": 32768,
+		"iS": 329012,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/loser3.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -103,12 +161,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/mag.png": {
+		"ft": 32768,
+		"iS": 396423,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/mag.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/oreo1-thumb.png": {
 		"ft": 32768,
 		"iS": 37262,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/oreo1-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/oreo1.png": {
+		"ft": 32768,
+		"iS": 4339559,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/oreo1.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -123,12 +201,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/oreo2.png": {
+		"ft": 32768,
+		"iS": 655360,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/oreo2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/oreo3-thumb.png": {
 		"ft": 32768,
 		"iS": 33623,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/oreo3-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/oreo3.png": {
+		"ft": 32768,
+		"iS": 0,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/oreo3.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -143,12 +241,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/paradox.png": {
+		"ft": 32768,
+		"iS": 4339559,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/paradox.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/sharpie-thumb.png": {
 		"ft": 32768,
 		"iS": 242851,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/sharpie-thumb.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sharpie.png": {
+		"ft": 32768,
+		"iS": 4339748,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/sharpie.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -163,6 +281,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/sunset.png": {
+		"ft": 32768,
+		"iS": 5779980,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/sunset.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/turquoise-thumb.png": {
 		"ft": 32768,
 		"iS": 4768593,
@@ -171,6 +299,16 @@
 		"oAP": "\/img\/turquoise-thumb.png",
 		"oF": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/turquoise.png": {
+		"ft": 32768,
+		"iS": 4339559,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/turquoise.png",
+		"oF": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/index.html": {
