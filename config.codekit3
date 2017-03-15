@@ -378,7 +378,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/scss\/_gallery-format.scss": {
+	"\/scss\/_gallery.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -386,7 +386,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/styles.css\/_gallery-format.css",
+		"oAP": "\/css\/styles.css\/_gallery.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
