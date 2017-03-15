@@ -19,6 +19,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
 	"\/fonts\/lg.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -107,6 +113,22 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/psd\/favicon-pregenerate.png": {
+		"ft": 32768,
+		"iS": 6497,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/psd\/favicon-pregenerate.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/psd\/stand-alone-favicon.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/psd\/stand-alone-favicon.psd",
+		"oF": 0
 		},
 	"\/README.md": {
 		"cS": 0,
