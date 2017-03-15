@@ -1,3 +1,4 @@
-# Web 2 Starter
+# Stand Alone Portfolio Gallery
 
-Put information about your project here. 
+This website serves to demonstrate the ability to use Javascript plugins, as well as to display some of my work. Course: Web Design II. Assignment: P3. 
+

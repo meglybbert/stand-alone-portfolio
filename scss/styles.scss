@@ -1,6 +1,8 @@
 @import 'normalize';
 @import 'lightgallery.min';
 @import 'lg-transitions.min';
+@import 'layout';
+@import 'gallery-format';
 
 /********************
 YOUR STYLES
@@ -10,7 +12,6 @@ figure{
     background: teal;
     width: 40%;
 }
-
 
 /********************
 MEDIA QUERIES
