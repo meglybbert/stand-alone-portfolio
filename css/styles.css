@@ -2349,7 +2349,7 @@ MEDIA QUERIES
     background: yellow;
     content: "Desktop Size"; } }
 
-figure {
+.myWork {
   margin-bottom: 4em;
   background: teal;
   display: flex;
