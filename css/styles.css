@@ -2184,10 +2184,6 @@ body {
   display: flex;
   flex-direction: column; }
 
-@font-face {
-  font-family: mmcBold;
-  src: url(https://github.com/meglybbert/portfolio/blob/master/webfontkit-20161204-001140/mmcbold-webfont.woff); }
-
 .header {
   background-image: url("http://i.imgur.com/CzXWk4z.png");
   background-repeat: no-repeat;
@@ -2225,7 +2221,7 @@ li {
   width: 25%;
   top: -3px;
   text-align: center;
-  font-family: "mmcBold";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 1.4em; }
 
 a {
@@ -2245,7 +2241,7 @@ a {
   margin-bottom: 2em; }
 
 h2 {
-  font-family: "mmcBold";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 1.4em; }
 
 .about,
@@ -2294,7 +2290,7 @@ p {
   justify-content: center; }
 
 .label {
-  font-family: "mmcBold";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 1.4em; }
 
 /********************
