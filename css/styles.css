@@ -2231,6 +2231,11 @@ a {
 .highlight {
   border-top: solid gold 3px; }
 
+.outofplace {
+  position: relative;
+  top: -3px;
+}
+
 .nav {
   margin-bottom: 1.2em; }
 
