@@ -4,323 +4,25 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "9CA9C162-52EA-4BAB-A17E-17CBD0495122"
+		"uuidString": "FFF8DAF1-E9A9-4042-B778-F4C9EB2DE54B"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/favicon.ico",
-		"oF": 0
-		},
-	"\/fonts\/lg.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/lg.eot",
-		"oF": 0
-		},
-	"\/fonts\/lg.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/fonts\/lg.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/fonts\/lg.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/lg.ttf",
-		"oF": 0
-		},
-	"\/fonts\/lg.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/lg.woff",
-		"oF": 0
-		},
-	"\/img\/cut-thumb.png": {
-		"ft": 32768,
-		"iS": 38846,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/cut-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/cut.png": {
-		"ft": 32768,
-		"iS": 4339559,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/cut.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/loading.gif": {
-		"ft": 4194304,
-		"iS": 64382,
-		"oA": 0,
-		"oAP": "\/img\/loading.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/loading.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/loading.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/loser1-thumb.png": {
-		"ft": 32768,
-		"iS": 43861,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/loser1-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/loser1.png": {
-		"ft": 32768,
-		"iS": 351510,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/loser1.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/loser2-thumb.png": {
-		"ft": 32768,
-		"iS": 47498,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/loser2-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/loser2.png": {
-		"ft": 32768,
-		"iS": 311132,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/loser2.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/loser3-thumb.png": {
-		"ft": 32768,
-		"iS": 53745,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/loser3-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/loser3.png": {
-		"ft": 32768,
-		"iS": 329012,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/loser3.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/mag-thumb.png": {
-		"ft": 32768,
-		"iS": 73388,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/mag-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/mag.png": {
-		"ft": 32768,
-		"iS": 396423,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/mag.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/oreo1-thumb.png": {
-		"ft": 32768,
-		"iS": 37262,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/oreo1-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/oreo1.png": {
-		"ft": 32768,
-		"iS": 4339559,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/oreo1.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/oreo2-thumb.png": {
-		"ft": 32768,
-		"iS": 37882,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/oreo2-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/oreo2.png": {
-		"ft": 32768,
-		"iS": 655360,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/oreo2.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/oreo3-thumb.png": {
-		"ft": 32768,
-		"iS": 33623,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/oreo3-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/oreo3.png": {
-		"ft": 32768,
-		"iS": 0,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/oreo3.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/paradox-thumb.png": {
-		"ft": 32768,
-		"iS": 33177,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/paradox-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/paradox.png": {
-		"ft": 32768,
-		"iS": 4339559,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/paradox.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/sharpie-thumb.png": {
-		"ft": 32768,
-		"iS": 242851,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/sharpie-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/sharpie.png": {
-		"ft": 32768,
-		"iS": 4339748,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/sharpie.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/sunset-thumb.png": {
-		"ft": 32768,
-		"iS": 228983,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/sunset-thumb.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/sunset.png": {
-		"ft": 32768,
-		"iS": 5779980,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/sunset.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/turquoise-thumb.png": {
-		"ft": 32768,
-		"iS": 4768593,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/turquoise-thumb.png",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/img\/turquoise.png": {
-		"ft": 32768,
-		"iS": 4339559,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/img\/turquoise.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index.html",
-		"oF": 0
-		},
 	"\/js\/lightgallery.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/lightgallery.min-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -329,7 +31,7 @@
 	"\/js\/plugin.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/plugin-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -338,7 +40,7 @@
 	"\/js\/scripts-min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -347,45 +49,11 @@
 	"\/js\/scripts.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
-		},
-	"\/psd\/favicon-pregenerate.png": {
-		"ft": 32768,
-		"iS": 6497,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/psd\/favicon-pregenerate.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/psd\/stand-alone-favicon.psd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/psd\/stand-alone-favicon.psd",
-		"oF": 0
-		},
-	"\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/README.md",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/scss\/_gallery.scss": {
 		"aP": 0,
@@ -459,60 +127,18 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/styles.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/webfontkit-20161204-001140\/generator_config.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/webfontkit-20161204-001140\/generator_config.txt",
-		"oF": 0
-		},
-	"\/webfontkit-20161204-001140\/mmcbold-demo.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/webfontkit-20161204-001140\/mmcbold-demo.html",
-		"oF": 0
-		},
-	"\/webfontkit-20161204-001140\/mmcbold-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/webfontkit-20161204-001140\/mmcbold-webfont.woff",
-		"oF": 0
-		},
-	"\/webfontkit-20161204-001140\/mmcbold-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/webfontkit-20161204-001140\/mmcbold-webfont.woff2",
-		"oF": 0
-		},
-	"\/webfontkit-20161204-001140\/mmcreg-demo.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/webfontkit-20161204-001140\/mmcreg-demo.html",
-		"oF": 0
-		},
-	"\/webfontkit-20161204-001140\/mmcreg-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/webfontkit-20161204-001140\/mmcreg-webfont.woff",
-		"oF": 0
-		},
-	"\/webfontkit-20161204-001140\/mmcreg-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/webfontkit-20161204-001140\/mmcreg-webfont.woff2",
-		"oF": 0
 		},
 	"\/webfontkit-20161204-001140\/specimen_files\/grid_12-825-55-15.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/webfontkit-20161204-001140\/specimen_files\/grid_12-825-55-15-min.css",
 		"oF": 0,
 		"oS": 0
@@ -522,7 +148,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/webfontkit-20161204-001140\/specimen_files\/specimen_stylesheet-min.css",
 		"oF": 0,
 		"oS": 0
@@ -532,7 +158,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/webfontkit-20161204-001140\/stylesheet-min.css",
 		"oF": 0,
 		"oS": 0
@@ -1506,6 +1132,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -2330,14 +1960,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -2400,7 +2022,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
